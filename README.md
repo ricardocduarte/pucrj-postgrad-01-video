@@ -1,1 +1,1 @@
-# pucrj-postgrad-01-video
+# Vídeo da Sprint01 - MVP
